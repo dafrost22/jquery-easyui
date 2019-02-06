@@ -2,7 +2,7 @@
   "name": "jquery-easyui",
   "version": "1.5.2",
   "description": "",
-  "main": "index.js",
+  "main": "js/jquery.easyui.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
