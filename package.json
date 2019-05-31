@@ -1,6 +1,6 @@
 {
   "name": "jquery-easyui",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "",
   "main": "js/jquery.easyui.min.js",
   "scripts": {
@@ -10,7 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/nieyuge/jquery-easyui.git"
   },
-  "keywords": ["jquery", "easyui"],
+  "keywords": [
+    "jquery",
+    "easyui"
+  ],
   "author": "nieyuge",
   "license": "ISC",
   "bugs": {
